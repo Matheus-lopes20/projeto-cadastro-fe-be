@@ -1,4 +1,4 @@
-# Projeto de Cadastro - Pós-graduação
+# Projeto de Cadastro
 
 Estrutura:
 - backend: Node.js + Express + SQLite
